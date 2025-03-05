@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Life Cinematography</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="navbar">
+        <a href="#home">Inicio</a>
+        <a href="#about">Conocenos</a>
+        <a href="#services">Contacto</a>
+        <a href="#contact">Galería</a>
+        <a href="#contact">Servicios</a>
+        <a href="#contact">Preguntas frecuentes</a>
+    </div>
+    <div class="header">
+        <img src="IMG/PORTADA.jpg" alt="Header Image">
+        <div class="header-text">
+            <h1>Life Cinematography</h1>
+            <p>AEREAL & FILMS</p>
+        </div>
+    </div>
+    <div class="body-image">
+        <img src="IMG/GALERIA.png" alt="Body Image" style="width:100%;height:auto;">
+        <div class="body-title">
+            <h2>Galería</h2>
+        </div>
+    </div>
+    <footer>
+        <div class="social-media">
+            <a href="https://www.facebook.com/lifecinematography/" target="_blank">
+                <img src="ICO/FB-ICON.png" alt="Facebook" style="width:50px;height:50px;">
+            </a>
+            <a href="https://www.instagram.com/lifecinematographymx?igsh=ZTZxaWY4YXh5ODQx" target="_blank">
+                <img src="ICO/INSTAGRAM-ICON.png" alt="Instagram" style="width:50px;height:50px;">
+            </a>
+        </div>
+        <div class="contact-info">
+            <p>Ubicación: Calle 20 de noviembre #186 pitillal centro, tercer piso.</p>
+            <p>Tel: +52 322 116 4550.</p>
+        </div>
+    </footer>
+</body>
+</html>
